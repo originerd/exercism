@@ -1,2 +1,5 @@
 ecmascript/babel-output/
 ecmascript/node_modules/
+
+scala/**/project/
+scala/**/target/
