@@ -1,5 +1,5 @@
 class Bob {
-  def hey(message: String): String = {
+  def hey(message: String): String =
     if (message.trim.isEmpty) {
       "Fine. Be that way!"
     } else if (message == message.toUpperCase && message != message.toLowerCase) {
@@ -9,5 +9,4 @@ class Bob {
     } else {
       "Whatever."
     }
-  }
 }
