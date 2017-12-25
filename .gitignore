@@ -1,3 +1,5 @@
+.vscode
+
 ecmascript/babel-output/
 ecmascript/node_modules/
 
